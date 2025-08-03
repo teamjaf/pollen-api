@@ -82,4 +82,32 @@ This section outlines the structure of the stored JSON data.
 ---
 
 ## 📂 Directory Structure
+.
+├── data/
+│ ├── pollen_YYYY-MM-DD.json
+│ └── pollen_last_5_days_combined.json
+├── main.py
+├── scheduler.py
+├── pollen_fetcher.py
+├── pollen_bulk_fetcher.py
+├── utils/
+├── .env
+└── README.md
+
+
+
+
+---
+
+## 📌 Notes
+
+- Requires `GOOGLE_POLLEN_API_KEY` in `.env`
+- Currently configured for Germany (`LAT = 51.1657`, `LON = 10.4515`)
+- Extendable to support multiple regions or file formats (CSV, etc.)
+
+---
+
+## 📬 License
+
+MIT License © 2025
 
