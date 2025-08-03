@@ -81,30 +81,13 @@ This section outlines the structure of the stored JSON data.
 
 ---
 
-.
-├── data/
-│   ├── pollen_YYYY-MM-DD.json
-│   └── pollen_YYYY-MM-DD_to_YYYY-MM-DD_combined.json
-├── main.py
-├── scheduler.py
-├── pollen_fetcher.py
-├── pollen_bulk_fetcher.py
-├── utils/
-│   └── json_to_csv.py
-├── extras/
-│   ├── preview.png
-│   ├── visualization.png
-│   └── response.json
-├── .env
-├── .gitignore
-└── README.md
-
 
 ## 📌 Notes
 
 - Requires `GOOGLE_POLLEN_API_KEY` in `.env`
 - Currently configured for Germany (`LAT = 51.1657`, `LON = 10.4515`)
 - Extendable to support multiple regions or file formats (CSV, etc.)
+- This API only provides data for 5 days (highest)
 
 ---
 
