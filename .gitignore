@@ -35,8 +35,6 @@ ENV/
 *.log
 *.sqlite
 *.db
-data/*.json
-data/*.csv
 *.pickle
 *.pkl
 
