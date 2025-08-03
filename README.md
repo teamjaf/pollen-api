@@ -92,9 +92,9 @@ This section outlines the structure of the stored JSON data.
 ## 📸 Screenshots - Response Visualiser from Postman
 ## 
 
-![Postman Response](images/Screenshot_2025-08-03_163600.png)
+![Postman Response_1](extras/Screenshot_2025-08-03_163600.png)
 
-![Data Structure](images/Screenshot_2025-08-03_163615.png)
+[Postman Response_2](extras/Screenshot_2025-08-03_163615.png)
 
 
 ## 📬 License
