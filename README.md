@@ -97,28 +97,37 @@ This section outlines the structure of the stored JSON data.
 ![Visualization](extras/visualization.png)
 
 
-## Installation
+## 🚀 Local Installation
 
 ```bash
 # Clone the repository
 git clone https://github.com/teamjaf/pollen-api/
 cd pollen-api
 
-# Create and activate a python virtual environment
+# Create and activate a Python virtual environment
 python -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+source venv/bin/activate  # On Windows use: venv\Scripts\activate
 
 # Install dependencies
 pip install -r requirements.txt
 
-# Create .env file
-echo "API_KEY=your_api_key_here" > .env
+# Create .env file with your Google Pollen API key
+echo "GOOGLE_POLLEN_API_KEY=your_api_key_here" > .env
 
 # Start FastAPI server
 uvicorn main:app --reload
 
-# You can also start the scheduler in a separate terminal
+# (Optional) Run the scheduler in a separate terminal
 python scheduler.py
+
+# When done:
+# - Press Ctrl+C to stop the server
+# - Deactivate the virtual environment
+deactivate
+
+# Exit terminal (if needed)
+exit
+
 
 ## 📬 License
 
