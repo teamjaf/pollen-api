@@ -89,6 +89,14 @@ This section outlines the structure of the stored JSON data.
 
 ---
 
+## 📸 Screenshots - Response Visualiser from Postman
+## 
+
+![Postman Response](images/Screenshot_2025-08-03_163600.png)
+
+![Data Structure](images/Screenshot_2025-08-03_163615.png)
+
+
 ## 📬 License
 
 MIT License © 2025
