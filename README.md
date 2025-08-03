@@ -82,17 +82,16 @@ This section outlines the structure of the stored JSON data.
 ---
 
 ## 📂 Directory Structure
-├── data/
-│ ├── pollen_YYYY-MM-DD.json # Daily pollen data saved by date
-│ └── pollen_last_5_days_combined.json # Combined data for last 5 days
-├── main.py # FastAPI app with endpoints
-├── scheduler.py # Daily background job trigger
-├── pollen_fetcher.py # Script to fetch single-day pollen data
-├── pollen_bulk_fetcher.py # Script to fetch and save 5 days' data
-├── utils/ # Optional utility functions (optional)
-├── .env # Environment file (contains API key)
-└── README.md # Project documentation
-
+data/
+    pollen_YYYY-MM-DD.json         # Daily pollen data saved by date
+    pollen_last_5_days_combined.json  # Combined data for last 5 days
+main.py                           # FastAPI app with endpoints
+scheduler.py                      # Daily background job trigger
+pollen_fetcher.py                 # Script to fetch single-day pollen data
+pollen_bulk_fetcher.py            # Script to fetch and save 5 days' data
+utils/                            # Optional utility functions
+env                               # Environment file (contains API key)
+README.md                         # Project documentation
 
 
 ---
