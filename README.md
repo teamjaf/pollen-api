@@ -127,7 +127,7 @@ deactivate
 
 # Exit terminal (if needed)
 exit
-
+```
 
 ## 📬 License
 
