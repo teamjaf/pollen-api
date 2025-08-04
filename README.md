@@ -81,21 +81,53 @@ This section outlines the structure of the stored JSON data.
 
 ---
 
+
 ## 📌 Notes
 
 - Requires `GOOGLE_POLLEN_API_KEY` in `.env`
 - Currently configured for Germany (`LAT = 51.1657`, `LON = 10.4515`)
 - Extendable to support multiple regions or file formats (CSV, etc.)
+- This API only provides data for the last 5 days at a time (highest)
+- You can change it by giving days a value of 1 to 5 
 
 ---
 
 ## 📸 Screenshots - Response Visualiser from Postman
-## 
+![Preview](extras/preview.png)
+![Visualization](extras/visualization.png)
 
-![Postman Response_1](extras/Screenshot_2025-08-03_163600.png)
 
-[Postman Response_2](extras/Screenshot_2025-08-03_163615.png)
+## 🚀 Local Installation
 
+```bash
+# Clone the repository
+git clone https://github.com/teamjaf/pollen-api/
+cd pollen-api
+
+# Create and activate a Python virtual environment
+python -m venv venv
+source venv/bin/activate  # On Windows use: venv\Scripts\activate
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Create .env file with your Google Pollen API key
+echo "GOOGLE_POLLEN_API_KEY=your_api_key_here" > .env
+
+# Start FastAPI server
+uvicorn main:app --reload
+
+# (Optional) Run the scheduler in a separate terminal
+python scheduler.py
+
+# When done:
+# - Press Ctrl+C to stop the server
+# - Deactivate the virtual environment
+deactivate
+
+# Exit terminal (if needed)
+exit
+```
 
 ## 📬 License
 
