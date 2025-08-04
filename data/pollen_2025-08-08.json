@@ -1,0 +1,67 @@
+{
+  "date": {
+    "year": 2025,
+    "month": 8,
+    "day": 8
+  },
+  "pollenTypeInfo": [
+    {
+      "code": "GRASS",
+      "displayName": "Grass"
+    },
+    {
+      "code": "TREE",
+      "displayName": "Tree"
+    },
+    {
+      "code": "WEED",
+      "displayName": "Weed"
+    }
+  ],
+  "plantInfo": [
+    {
+      "code": "HAZEL",
+      "displayName": "Hazel"
+    },
+    {
+      "code": "ASH",
+      "displayName": "Ash"
+    },
+    {
+      "code": "COTTONWOOD",
+      "displayName": "Cottonwood"
+    },
+    {
+      "code": "OAK",
+      "displayName": "Oak"
+    },
+    {
+      "code": "PINE",
+      "displayName": "Pine"
+    },
+    {
+      "code": "BIRCH",
+      "displayName": "Birch"
+    },
+    {
+      "code": "OLIVE",
+      "displayName": "Olive"
+    },
+    {
+      "code": "GRAMINALES",
+      "displayName": "Grasses"
+    },
+    {
+      "code": "RAGWEED",
+      "displayName": "Ragweed"
+    },
+    {
+      "code": "ALDER",
+      "displayName": "Alder"
+    },
+    {
+      "code": "MUGWORT",
+      "displayName": "Mugwort"
+    }
+  ]
+}
