@@ -1,0 +1,265 @@
+Date,Plant_code,Pollen_count,Season,Index_value,Plant_family
+2001,Hazel,310,Late winter,2,Betulaceae
+2001,Alder,1700,Late winter,3,Betulaceae
+2001,Birch,5000,Spring,3,Betulaceae
+2001,Ash,800,Spring,2,Fraxinus
+2001,Grasses,3200,Early summer,3,Poaceae
+2001,Rye,51,Early summer,1,Poaceae
+2001,Mugwort,220,Mid summer,1,Asteraceae
+2001,Ragweed,,,,Asteraceae
+2001,Alternaria,5000,late summer/ Early autumn,3,Pleosporaceae
+2001,Cladosporium,225000,late summer/ Early autumn,3,Cladosporiaceae
+2001,Epicoccum,,,,Didymellaceae
+2002,Hazel,820,Late winter,2,Betulaceae
+2002,Alder,1800,Late winter,3,Betulaceae
+2002,Birch,5000,Spring,3,Betulaceae
+2002,Ash,700,Spring,2,Fraxinus
+2002,Grasses,3100,Early summer,3,Poaceae
+2002,Rye,81,Early summer,0,Poaceae
+2002,Mugwort,320,Mid summer,1,Asteraceae
+2002,Ragweed,,,,Asteraceae
+2002,Alternaria,11500,late summer/ Early autumn,3,Pleosporaceae
+2002,Cladosporium,160000,late summer/ Early autumn,3,Cladosporiaceae
+2002,Epicoccum,,,,Didymellaceae
+2003,Hazel,340,Late winter,1,Betulaceae
+2003,Alder,1900,Late winter,3,Betulaceae
+2003,Birch,5000,Spring,3,Betulaceae
+2003,Ash,1750,Spring,3,Fraxinus
+2003,Grasses,2450,Early summer,3,Poaceae
+2003,Rye,69,Early summer,0,Poaceae
+2003,Mugwort,280,Mid summer,1,Asteraceae
+2003,Ragweed,,,,Asteraceae
+2003,Alternaria,6000,late summer/ Early autumn,3,Pleosporaceae
+2003,Cladosporium,290000,late summer/ Early autumn,3,Cladosporiaceae
+2003,Epicoccum,,,,Didymellaceae
+2004,Hazel,1100,Late winter,3,Betulaceae
+2004,Alder,5000,Late winter,3,Betulaceae
+2004,Birch,9700,Spring,3,Betulaceae
+2004,Ash,1300,Spring,3,Fraxinus
+2004,Grasses,2500,Early summer,3,Poaceae
+2004,Rye,53,Early summer,0,Poaceae
+2004,Mugwort,570,Mid summer,2,Asteraceae
+2004,Ragweed,,,,Asteraceae
+2004,Alternaria,11000,late summer/ Early autumn,3,Pleosporaceae
+2004,Cladosporium,210000,late summer/ Early autumn,3,Cladosporiaceae
+2004,Epicoccum,,,,Didymellaceae
+2005,Hazel,400,Late winter,1,Betulaceae
+2005,Alder,1600,Late winter,3,Betulaceae
+2005,Birch,3750,Spring,3,Betulaceae
+2005,Ash,800,Spring,2,Fraxinus
+2005,Grasses,2750,Early summer,3,Poaceae
+2005,Rye,45,Early summer,0,Poaceae
+2005,Mugwort,220,Mid summer,1,Asteraceae
+2005,Ragweed,,,,Asteraceae
+2005,Alternaria,14500,late summer/ Early autumn,3,Pleosporaceae
+2005,Cladosporium,225000,late summer/ Early autumn,3,Cladosporiaceae
+2005,Epicoccum,,,,Didymellaceae
+2006,Hazel,900,Late winter,2,Betulaceae
+2006,Alder,3000,Late winter,3,Betulaceae
+2006,Birch,12500,Spring,3,Betulaceae
+2006,Ash,2600,Spring,3,Fraxinus
+2006,Grasses,2250,Early summer,3,Poaceae
+2006,Rye,44,Early summer,0,Poaceae
+2006,Mugwort,180,Mid summer,1,Asteraceae
+2006,Ragweed,50,late summer/ Early autumn,0,Asteraceae
+2006,Alternaria,9700,late summer/ Early autumn,3,Pleosporaceae
+2006,Cladosporium,260000,late summer/ Early autumn,3,Cladosporiaceae
+2006,Epicoccum,,,,Didymellaceae
+2007,Hazel,550,Late winter,2,Betulaceae
+2007,Alder,1000,Late winter,2,Betulaceae
+2007,Birch,5000,Spring,3,Betulaceae
+2007,Ash,500,Spring,2,Fraxinus
+2007,Grasses,2700,Early summer,3,Poaceae
+2007,Rye,44,Early summer,0,Poaceae
+2007,Mugwort,250,Mid summer,1,Asteraceae
+2007,Ragweed,10,late summer/ Early autumn,0,Asteraceae
+2007,Alternaria,12300,late summer/ Early autumn,3,Pleosporaceae
+2007,Cladosporium,175000,late summer/ Early autumn,3,Cladosporiaceae
+2007,Epicoccum,,,,Didymellaceae
+2008,Hazel,390,Late winter,1,Betulaceae
+2008,Alder,3000,Late winter,3,Betulaceae
+2008,Birch,8500,Spring,3,Betulaceae
+2008,Ash,1250,Spring,3,Fraxinus
+2008,Grasses,2800,Early summer,3,Poaceae
+2008,Rye,93,Early summer,0,Poaceae
+2008,Mugwort,150,Mid summer,1,Asteraceae
+2008,Ragweed,15,late summer/ Early autumn,0,Asteraceae
+2008,Alternaria,8200,late summer/ Early autumn,3,Pleosporaceae
+2008,Cladosporium,260000,late summer/ Early autumn,3,Cladosporiaceae
+2008,Epicoccum,,,,Didymellaceae
+2009,Hazel,1050,Late winter,3,Betulaceae
+2009,Alder,3000,Late winter,3,Betulaceae
+2009,Birch,6000,Spring,3,Betulaceae
+2009,Ash,600,Spring,2,Fraxinus
+2009,Grasses,1800,Early summer,3,Poaceae
+2009,Rye,43,Early summer,0,Poaceae
+2009,Mugwort,250,Mid summer,1,Asteraceae
+2009,Ragweed,25,late summer/ Early autumn,0,Asteraceae
+2009,Alternaria,7700,late summer/ Early autumn,3,Pleosporaceae
+2009,Cladosporium,260000,late summer/ Early autumn,3,Cladosporiaceae
+2009,Epicoccum,,,,Didymellaceae
+2010,Hazel,500,Late winter,1,Betulaceae
+2010,Alder,2500,Late winter,3,Betulaceae
+2010,Birch,7500,Spring,3,Betulaceae
+2010,Ash,2100,Spring,3,Fraxinus
+2010,Grasses,1600,Early summer,3,Poaceae
+2010,Rye,45,Early summer,0,Poaceae
+2010,Mugwort,120,Mid summer,1,Asteraceae
+2010,Ragweed,20,late summer/ Early autumn,0,Asteraceae
+2010,Alternaria,5700,late summer/ Early autumn,3,Pleosporaceae
+2010,Cladosporium,260000,late summer/ Early autumn,3,Cladosporiaceae
+2010,Epicoccum,,,,Didymellaceae
+2011,Hazel,1050,Late winter,3,Betulaceae
+2011,Alder,2500,Late winter,3,Betulaceae
+2011,Birch,5200,Spring,3,Betulaceae
+2011,Ash,1500,Spring,3,Fraxinus
+2011,Grasses,1550,Early summer,3,Poaceae
+2011,Rye,35,Early summer,0,Poaceae
+2011,Mugwort,210,Mid summer,1,Asteraceae
+2011,Ragweed,25,late summer/ Early autumn,0,Asteraceae
+2011,Alternaria,6000,late summer/ Early autumn,3,Pleosporaceae
+2011,Cladosporium,270000,late summer/ Early autumn,3,Cladosporiaceae
+2011,Epicoccum,,,,Didymellaceae
+2012,Hazel,350,Late winter,1,Betulaceae
+2012,Alder,1000,Late winter,2,Betulaceae
+2012,Birch,4500,Spring,3,Betulaceae
+2012,Ash,750,Spring,2,Fraxinus
+2012,Grasses,1700,Early summer,3,Poaceae
+2012,Rye,51,Early summer,0,Poaceae
+2012,Mugwort,200,Mid summer,1,Asteraceae
+2012,Ragweed,10,late summer/ Early autumn,0,Asteraceae
+2012,Alternaria,4100,late summer/ Early autumn,3,Pleosporaceae
+2012,Cladosporium,300000,late summer/ Early autumn,3,Cladosporiaceae
+2012,Epicoccum,,,,Didymellaceae
+2013,Hazel,750,Late winter,2,Betulaceae
+2013,Alder,3500,Late winter,3,Betulaceae
+2013,Birch,6500,Spring,3,Betulaceae
+2013,Ash,2200,Spring,3,Fraxinus
+2013,Grasses,2000,Early summer,3,Poaceae
+2013,Rye,60,Early summer,0,Poaceae
+2013,Mugwort,130,Mid summer,1,Asteraceae
+2013,Ragweed,10,late summer/ Early autumn,0,Asteraceae
+2013,Alternaria,6000,late summer/ Early autumn,3,Pleosporaceae
+2013,Cladosporium,270000,late summer/ Early autumn,3,Cladosporiaceae
+2013,Epicoccum,,,,Didymellaceae
+2014,Hazel,790,Late winter,2,Betulaceae
+2014,Alder,2000,Late winter,3,Betulaceae
+2014,Birch,11500,Spring,3,Betulaceae
+2014,Ash,700,Spring,2,Fraxinus
+2014,Grasses,2300,Early summer,3,Poaceae
+2014,Rye,53,Early summer,0,Poaceae
+2014,Mugwort,150,Mid summer,1,Asteraceae
+2014,Ragweed,90,late summer/ Early autumn,0,Asteraceae
+2014,Alternaria,9000,late summer/ Early autumn,3,Pleosporaceae
+2014,Cladosporium,180000,late summer/ Early autumn,3,Cladosporiaceae
+2014,Epicoccum,,,,Didymellaceae
+2015,Hazel,610,Late winter,2,Betulaceae
+2015,Alder,1750,Late winter,3,Betulaceae
+2015,Birch,3000,Spring,3,Betulaceae
+2015,Ash,2000,Spring,3,Fraxinus
+2015,Grasses,2400,Early summer,3,Poaceae
+2015,Rye,47,Early summer,0,Poaceae
+2015,Mugwort,150,Mid summer,1,Asteraceae
+2015,Ragweed,25,late summer/ Early autumn,0,Asteraceae
+2015,Alternaria,4600,late summer/ Early autumn,3,Pleosporaceae
+2015,Cladosporium,260000,late summer/ Early autumn,3,Cladosporiaceae
+2015,Epicoccum,,,,Didymellaceae
+2016,Hazel,750,Late winter,2,Betulaceae
+2016,Alder,3200,Late winter,3,Betulaceae
+2016,Birch,7500,Spring,3,Betulaceae
+2016,Ash,550,Spring,2,Fraxinus
+2016,Grasses,2600,Early summer,3,Poaceae
+2016,Rye,25,Early summer,0,Poaceae
+2016,Mugwort,120,Mid summer,1,Asteraceae
+2016,Ragweed,25,late summer/ Early autumn,0,Asteraceae
+2016,Alternaria,8400,late summer/ Early autumn,3,Pleosporaceae
+2016,Cladosporium,150000,late summer/ Early autumn,3,Cladosporiaceae
+2016,Epicoccum,,,,Didymellaceae
+2017,Hazel,500,Late winter,1,Betulaceae
+2017,Alder,2500,Late winter,3,Betulaceae
+2017,Birch,4200,Spring,3,Betulaceae
+2017,Ash,1500,Spring,3,Fraxinus
+2017,Grasses,1950,Early summer,3,Poaceae
+2017,Rye,25,Early summer,0,Poaceae
+2017,Mugwort,150,Mid summer,1,Asteraceae
+2017,Ragweed,25,late summer/ Early autumn,0,Asteraceae
+2017,Alternaria,10000,late summer/ Early autumn,3,Pleosporaceae
+2017,Cladosporium,170000,late summer/ Early autumn,3,Cladosporiaceae
+2017,Epicoccum,3700,late summer/ Early autumn,3,Didymellaceae
+2018,Hazel,1200,Late winter,3,Betulaceae
+2018,Alder,1700,Late winter,3,Betulaceae
+2018,Birch,9000,Spring,3,Betulaceae
+2018,Ash,2100,Spring,3,Fraxinus
+2018,Grasses,2750,Early summer,3,Poaceae
+2018,Rye,39,Early summer,0,Poaceae
+2018,Mugwort,130,Mid summer,1,Asteraceae
+2018,Ragweed,30,late summer/ Early autumn,0,Asteraceae
+2018,Alternaria,117500,late summer/ Early autumn,3,Pleosporaceae
+2018,Cladosporium,430000,late summer/ Early autumn,3,Cladosporiaceae
+2018,Epicoccum,3800,late summer/ Early autumn,3,Didymellaceae
+2019,Hazel,1550,Late winter,3,Betulaceae
+2019,Alder,13000,Late winter,3,Betulaceae
+2019,Birch,16500,Spring,3,Betulaceae
+2019,Ash,1700,Spring,3,Fraxinus
+2019,Grasses,2550,Early summer,3,Poaceae
+2019,Rye,46,Early summer,0,Poaceae
+2019,Mugwort,220,Mid summer,1,Asteraceae
+2019,Ragweed,35,late summer/ Early autumn,0,Asteraceae
+2019,Alternaria,16000,late summer/ Early autumn,3,Pleosporaceae
+2019,Cladosporium,300000,late summer/ Early autumn,3,Cladosporiaceae
+2019,Epicoccum,2800,late summer/ Early autumn,3,Didymellaceae
+2020,Hazel,1100,Late winter,3,Betulaceae
+2020,Alder,2000,Late winter,3,Betulaceae
+2020,Birch,9200,Spring,3,Betulaceae
+2020,Ash,1500,Spring,3,Fraxinus
+2020,Grasses,3400,Early summer,3,Poaceae
+2020,Rye,56,Early summer,0,Poaceae
+2020,Mugwort,270,Mid summer,1,Asteraceae
+2020,Ragweed,35,late summer/ Early autumn,0,Asteraceae
+2020,Alternaria,17000,late summer/ Early autumn,3,Pleosporaceae
+2020,Cladosporium,260000,late summer/ Early autumn,3,Cladosporiaceae
+2020,Epicoccum,2800,late summer/ Early autumn,3,Didymellaceae
+2021,Hazel,1230,Late winter,3,Betulaceae
+2021,Alder,11000,Late winter,3,Betulaceae
+2021,Birch,5500,Spring,3,Betulaceae
+2021,Ash,1200,Spring,3,Fraxinus
+2021,Grasses,3700,Early summer,3,Poaceae
+2021,Rye,57,Early summer,0,Poaceae
+2021,Mugwort,210,Mid summer,1,Asteraceae
+2021,Ragweed,30,late summer/ Early autumn,0,Asteraceae
+2021,Alternaria,16000,late summer/ Early autumn,3,Pleosporaceae
+2021,Cladosporium,275000,late summer/ Early autumn,3,Cladosporiaceae
+2021,Epicoccum,4000,late summer/ Early autumn,3,Didymellaceae
+2022,Hazel,1200,Late winter,3,Betulaceae
+2022,Alder,3700,Late winter,3,Betulaceae
+2022,Birch,10500,Spring,3,Betulaceae
+2022,Ash,1400,Spring,3,Fraxinus
+2022,Grasses,4550,Early summer,3,Poaceae
+2022,Rye,45,Early summer,0,Poaceae
+2022,Mugwort,210,Mid summer,1,Asteraceae
+2022,Ragweed,25,late summer/ Early autumn,0,Asteraceae
+2022,Alternaria,10000,late summer/ Early autumn,3,Pleosporaceae
+2022,Cladosporium,430000,late summer/ Early autumn,3,Cladosporiaceae
+2022,Epicoccum,6500,late summer/ Early autumn,3,Didymellaceae
+2023,Hazel,1420,Late winter,3,Betulaceae
+2023,Alder,3000,Late winter,3,Betulaceae
+2023,Birch,6000,Spring,3,Betulaceae
+2023,Ash,1500,Spring,3,Fraxinus
+2023,Grasses,4100,Early summer,3,Poaceae
+2023,Rye,50,Early summer,0,Poaceae
+2023,Mugwort,190,Mid summer,1,Asteraceae
+2023,Ragweed,30,late summer/ Early autumn,0,Asteraceae
+2023,Alternaria,12000,late summer/ Early autumn,3,Pleosporaceae
+2023,Cladosporium,240000,late summer/ Early autumn,3,Cladosporiaceae
+2023,Epicoccum,4500,late summer/ Early autumn,3,Didymellaceae
+2024,Hazel,900,Late winter,2,Betulaceae
+2024,Alder,6250,Late winter,3,Betulaceae
+2024,Birch,13000,Spring,3,Betulaceae
+2024,Ash,900,Spring,2,Fraxinus
+2024,Grasses,4250,Early summer,3,Poaceae
+2024,Rye,44,Early summer,0,Poaceae
+2024,Mugwort,350,Mid summer,1,Asteraceae
+2024,Ragweed,225,late summer/ Early autumn,1,Asteraceae
+2024,Alternaria,13000,late summer/ Early autumn,3,Pleosporaceae
+2024,Cladosporium,200000,late summer/ Early autumn,3,Cladosporiaceae
+2024,Epicoccum,7000,late summer/ Early autumn,3,Didymellaceae
