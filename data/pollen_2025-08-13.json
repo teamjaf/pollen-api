@@ -2,7 +2,7 @@
   "date": {
     "year": 2025,
     "month": 8,
-    "day": 8
+    "day": 13
   },
   "pollenTypeInfo": [
     {
@@ -52,16 +52,18 @@
       "indexInfo": {
         "code": "UPI",
         "displayName": "Universal Pollen Index",
-        "value": 1,
-        "category": "Very Low",
-        "indexDescription": "People with very high allergy to pollen are likely to experience symptoms",
+        "value": 2,
+        "category": "Low",
+        "indexDescription": "People with high allergy to pollen are likely to experience symptoms",
         "color": {
-          "green": 0.61960787,
-          "blue": 0.22745098
+          "red": 0.5176471,
+          "green": 0.8117647,
+          "blue": 0.2
         }
       },
       "healthRecommendations": [
-        "Pollen levels are very low right now. It's a great day to enjoy the outdoors!"
+        "It's a good day for outdoor activities since pollen levels are low.",
+        "Do you know which plants cause your pollen allergy? Check out the pollen data to be prepared."
       ]
     }
   ],
@@ -114,7 +116,29 @@
     },
     {
       "code": "OLIVE",
-      "displayName": "Olive"
+      "displayName": "Olive",
+      "inSeason": false,
+      "indexInfo": {
+        "code": "UPI",
+        "displayName": "Universal Pollen Index",
+        "value": 1,
+        "category": "Very Low",
+        "indexDescription": "People with very high allergy to pollen are likely to experience symptoms",
+        "color": {
+          "green": 0.61960787,
+          "blue": 0.22745098
+        }
+      },
+      "plantDescription": {
+        "type": "TREE",
+        "family": "Oleaceae (the Olive family)",
+        "season": "Late spring, early summer",
+        "specialColors": "Leaves are colored dark green upper side and silver underside.",
+        "specialShapes": "The leaves are oppositely arranged, and linear with smooth margins.",
+        "crossReaction": "Ash and Privet pollen.",
+        "picture": "https://storage.googleapis.com/pollen-pictures/olive_full.jpg",
+        "pictureCloseup": "https://storage.googleapis.com/pollen-pictures/olive_closeup.jpg"
+      }
     },
     {
       "code": "GRAMINALES",
@@ -180,12 +204,13 @@
       "indexInfo": {
         "code": "UPI",
         "displayName": "Universal Pollen Index",
-        "value": 1,
-        "category": "Very Low",
-        "indexDescription": "People with very high allergy to pollen are likely to experience symptoms",
+        "value": 2,
+        "category": "Low",
+        "indexDescription": "People with high allergy to pollen are likely to experience symptoms",
         "color": {
-          "green": 0.61960787,
-          "blue": 0.22745098
+          "red": 0.5176471,
+          "green": 0.8117647,
+          "blue": 0.2
         }
       },
       "plantDescription": {
